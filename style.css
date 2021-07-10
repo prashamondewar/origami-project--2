@@ -15,4 +15,7 @@ background-color: blue;
     display:flex;
      flex-wrap: wrap;
      justify-content: space-evenly;
+     padding: 15px;
+     margin: 0px;
+     background-color: #AAAAAA;
     } 
